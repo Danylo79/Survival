@@ -2,3 +2,10 @@ name: Survival
 version: ${project.version}
 main: dev.dankom.survival.Main
 api-version: 1.16
+depend:
+  - ProtocolLib
+  - HeadDatabase
+  - ProtocolLib
+  - PlaceholderAPI
+commands:
+  survival:
